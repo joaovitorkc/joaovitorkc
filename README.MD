@@ -1,18 +1,15 @@
-## Olá, eu sou Miguel Ângelo 🖖
+## Olá, eu sou João Vitor 👾
 
 ### 😄 Sobre mim
 
-Eu amo o mundo da tecnologia e a linguagem que eu mais admiro é o **_JavaScript_**/**_TypeScript_**, eu acho incrível tudo que é possível construir com elas.
+Sempre me interessei pela área de tecnologia e suas especificações, gosto de usar **_JavaScript_**, eu acho muito interessante as diversas possibilidades que essa linguagem pode oferecer. 
 
-Atualmente estou estudando bastante tecnologias **_Front-end_**, como React, Next.JS, Vercel, HTML, SASS, JavaScript/TypeScript e relacionados.
+Atualmente estou estudando bastante tecnologias **_Front-end_**, como JavaScript, CSSS, HTML, SQL e relacionados.
 
 ### 🔎 Onde me encontrar
 
-[![Twitter Badge](https://img.shields.io/badge/_guel5g_-b1295b?style=flat-square&labelColor=b1295b&logo=twitter&logoColor=fff)](https://twitter.com/guel5g)
-[![Linkedin Badge](https://img.shields.io/badge/_Miguel_Ângelo_-b1295b?style=flat-square&labelColor=b1295b&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/miguel5g/)
-[![Mail Badge](https://img.shields.io/badge/_miguelcg958@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:miguelcg958@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/_Guel%233451_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/342803796201832449/)
-[![Dev.to Badge](https://img.shields.io/badge/_Miguel_Ângelo_-b1295b?style=flat-square&labelColor=b1295b&logo=dev.to&logoColor=fff)](https://dev.to/miguel5g)
+[![Mail Badge](https://img.shields.io/badge/_miguelcg958@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:jv0488598@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/_Guel%233451_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/399906363486240770/)
 
 ### 🚀 Linguagens e ferramentas
 
