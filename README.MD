@@ -8,7 +8,7 @@ Atualmente estou estudando bastante tecnologias **_Front-end_**, como JavaScript
 
 ### 🔎 Onde me encontrar
 
-[![Mail Badge](https://img.shields.io/badge/_miguelcg958@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:jv0488598@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/_jv0488598@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:jv0488598@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/_jootave_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/399906363486240770/)
 
 ### 🚀 Linguagens e ferramentas
