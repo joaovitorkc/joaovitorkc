@@ -24,6 +24,7 @@ Atualmente estou estudando bastante tecnologias **_Front-end_**, como JavaScript
 ![Indesigner](https://img.shields.io/badge/-AdobeIndesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![BootSrap](https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 
 <!--
