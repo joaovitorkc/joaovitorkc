@@ -35,4 +35,6 @@ Atualmente estou estudando bastante tecnologias **_Front-end_**, como JavaScript
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorkc&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+![snake gif](https://github.com/joaovitorkc/joaovitorkc/blob/output/github-contribution-grid-snake.svg)
+
 
