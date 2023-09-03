@@ -27,12 +27,11 @@ Atualmente estou estudando bastante tecnologias **_Front-end_**, como JavaScript
 ![BootSrap](https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 
-<!--
+
 
 <div align="center">
   <a href="https://github.com/joaovitorkc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel5g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel5g&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorkcg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorkcg&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
---!>
