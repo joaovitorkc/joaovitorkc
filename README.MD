@@ -19,7 +19,7 @@ Atualmente estou estudando bastante tecnologias **_Front-end_**, como JavaScript
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Ilustrator](https://img.shields.io/badge/-AdobeIllustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Premiere](https://img.shields.io/badge/-AdobePremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![Premiere](https://img.shields.io/badge/-AdobePremierePro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 ![After](https://img.shields.io/badge/-AdobeAfterEffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 ![Indesigner](https://img.shields.io/badge/-AdobeIndesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
