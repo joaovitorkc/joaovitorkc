@@ -25,15 +25,3 @@ Atualmente estou estudando bastante tecnologias **_Front-end_**, como JavaScript
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![BootSrap](https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-
-
-
-<div align="center">
-  <a href="https://github.com/joaovitorkc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorkc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorkc&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-
-
