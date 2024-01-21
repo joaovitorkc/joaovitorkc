@@ -1,6 +1,6 @@
 ## Olá, eu sou João Vitor 👾
 
-<! --### 😄 Sobre mim
+<! -- ### 😄 Sobre mim
 
 Sempre me interessei pela área de tecnologia e suas especificações, gosto de usar **_JavaScript_**, eu acho muito interessante as diversas possibilidades que essa linguagem pode oferecer. 
 
