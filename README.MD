@@ -4,7 +4,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/_jv0488598@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:jv0488598@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/_jootave_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/399906363486240770/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaovitork.c/)
+[![Instagram](https://img.shields.io/badge/joaovitorkc_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://www.instagram.com/joaovitork.c/)
 
 ### 🚀 Linguagens e ferramentas
 
