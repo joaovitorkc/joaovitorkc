@@ -1,11 +1,5 @@
 ## Olá, eu sou João Vitor 👾
 
-<! -- ### 😄 Sobre mim
-
-Sempre me interessei pela área de tecnologia e suas especificações, gosto de usar **_JavaScript_**, eu acho muito interessante as diversas possibilidades que essa linguagem pode oferecer. 
-
-Atualmente estou estudando bastante tecnologias **_Front-end_**, como JavaScript, CSS, HTML, SQL e relacionados.
--->
 ### 🔎 Onde me encontrar
 
 [![Mail Badge](https://img.shields.io/badge/_jv0488598@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:jv0488598@gmail.com)
