@@ -6,7 +6,7 @@
 [![Discord Badge](https://img.shields.io/badge/_jootave_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/399906363486240770/)
 [![Instagram](https://img.shields.io/badge/joaovitork.c_-b1295b?style=flat-square&labelColor=b1295b&logo=Instagram&logoColor=fff)](https://www.instagram.com/joaovitork.c/)
 
-### 🚀 Linguagens e ferramentas 
+### 🚀 Linguagens e ferramentas
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
