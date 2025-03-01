@@ -22,11 +22,13 @@
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
 ![BootSrap](https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### **Back-end:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
 ![Fastify](https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=fastify&logoColor=white)  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)  
 
 ### **Banco de Dados e Cache:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
@@ -34,8 +36,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-D9281A?style=flat-square&logo=redis&logoColor=white)  
 
 ### **Infraestrutura e DevOps:**  
-![NGINX](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)  
+![NGINX](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)  
 
 ### **Ferramentas e CMS:**  
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)  
