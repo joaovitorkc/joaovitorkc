@@ -1,46 +1,79 @@
-## Olá, eu sou João Vitor 👾
+<h1 align="left">Olá, eu sou João Vitor 👾</h1>
 
-### 🔎 Onde me encontrar
+###
 
-[![Mail Badge](https://img.shields.io/badge/_jv0488598@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:jv0488598@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/_jootave_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/399906363486240770/)
-[![Instagram](https://img.shields.io/badge/joaovitork.c_-b1295b?style=flat-square&labelColor=b1295b&logo=Instagram&logoColor=fff)](https://www.instagram.com/joaovitork.c/)
+<p align="left">Full-Stack Developer</p>
 
-### 🚀 Linguagens e ferramentas
+###
 
-### **Linguagens de Programação:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=black)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-6C78AF?style=flat-square&logo=php&logoColor=white)  
+<h2 align="left">Sobre mim</h2>
 
-### **Front-end:**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
-![BootSrap](https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+###
 
-### **Back-end:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![Fastify](https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=fastify&logoColor=white)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)  
+<p align="left">Sempre fui apaixonado por tecnologia e adoro me aprofundar em suas especificações. Atualmente, tenho estudado bastante TypeScript, uma linguagem que considero fascinante pela sua versatilidade e segurança no código.<br><br>Meu foco está no desenvolvimento Full Stack, explorando tecnologias como TypeScript, Next.js, Express, Fastify e relacionados. Além de cursos online em plataformas como Udemy e Rocketseat, mas minha maior especialização veio da prática, participando ativamente de projetos no trabalho.</p>
 
-### **Banco de Dados e Cache:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-postgresql-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-D9281A?style=flat-square&logo=redis&logoColor=white)  
+###
 
-### **Infraestrutura e DevOps:**  
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)  
-![NGINX](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)  
+<h2 align="left">🔎 Onde me encontrar</h2>
 
-### **Ferramentas e CMS:**  
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)  
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<h2 align="left">🚀 Linguagens e ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+</div>
+
+###
