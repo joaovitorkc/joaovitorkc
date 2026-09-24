@@ -1,134 +1,130 @@
-<div align="center">
-  <h1>João Vitor</h1>
-  <p>
-    Full-Stack Engineer · Caruaru, PE
-    <br />
-    TypeScript · Next.js · Node.js · Infra · AI harness
-  </p>
-  <p>
-    <a href="https://joaovitorkc.com.br">joaovitorkc.com.br</a>
-    ·
-    <a href="https://www.linkedin.com/in/joaovitorkc/">LinkedIn</a>
-    ·
-    <a href="mailto:jv0488598@gmail.com">E-mail</a>
-  </p>
-</div>
+<h1 align="left">João Vitor</h1>
 
----
-
-Full-stack em produção desde 2023. Na [WI Consultoria](https://www.linkedin.com/company/wi-consultoria) construo sistemas para saúde, gestão municipal, fiscal e infraestrutura — web, API, Linux e app nativo no Mac. Em 2026 fundei a [Quiral Labs](https://quirallabs.com.br): software sob medida e prototipagem 3D.
-
-Curso Ciência da Computação na Wyden. A especialização veio do trabalho real: produto no ar, operação, qualidade e o harness que faz o time ir mais rápido com IA.
-
-### Agora
-
-- **WI Consultoria** — full-stack em produtos de saúde, portal, fiscal e infra interna
-- **Quiral Labs** — fundador: software + impressão 3D / prototipagem
-- **Harness de engenharia** — Cursor, Claude Code, skills, quality gates e prompts extraídos de uso real
-- **Faculdade** — Ciência da Computação (Wyden)
-
----
-
-### O que eu entrego
-
-- Produtos full-stack em TypeScript (Next.js, Express, Fastify, Nest)
-- Dados e persistência com PostgreSQL, Redis, Prisma e Knex
-- Infra: Linux, Docker, Nginx, GitHub Actions, Ansible, GCP
-- App nativo macOS com Swift / AppKit
-- Automação, fiscal (NF-e) e tooling para coding agents
-
----
-
-### Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/joaovitorkc/harnessly">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorkc&repo=harnessly&theme=transparent&hide_border=true" alt="harnessly" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaovitorkc/nfhelper-server">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorkc&repo=nfhelper-server&theme=transparent&hide_border=true" alt="nfhelper-server" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/joaovitorkc/server-template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorkc&repo=server-template&theme=transparent&hide_border=true" alt="server-template" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaovitorkc/web-template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovitorkc&repo=web-template&theme=transparent&hide_border=true" alt="web-template" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-| Projeto | O que é |
-| --- | --- |
-| [harnessly](https://github.com/joaovitorkc/harnessly) | Toolkit Markdown-first: mapeia o repo, pede aprovação e instala o harness que o agente de código precisa |
-| [nfhelper](https://github.com/joaovitorkc/nfhelper-server) | Lê transações de compra, processa e emite nota fiscal eletrônica |
-| [server-template](https://github.com/joaovitorkc/server-template) | Base Fastify + TypeScript para APIs |
-| [web-template](https://github.com/joaovitorkc/web-template) | Base Next.js para apps web |
-| [sc-landing](https://github.com/joaovitorkc/sc-landing) | Landing para escritório de advocacia, foco em autoridade e conversão |
-| [portfolio](https://github.com/joaovitorkc/portfolio) | Código do site [joaovitorkc.com.br](https://joaovitorkc.com.br) |
-
----
-
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,react,nextjs,tailwind,nodejs,express,nestjs,fastify&perline=11" alt="linguagens e frameworks" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,docker,linux,nginx,gcp,githubactions,ansible&perline=9" alt="dados e infra" />
+<p align="left">
+  Desenvolvedor Full Stack<br>
+  <em>Construo os sistemas que fazem a saúde pública brasileira funcionar.</em>
 </p>
 
-Também trabalho com SQL, PHP, C e automações em shell quando o produto pede.
-
----
-
-### GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaovitorkc&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorkc&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="linguagens mais usadas" />
-</div>
-
----
-
-### Contato
-
-<p>
-  <a href="https://joaovitorkc.com.br" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/site-joaovitorkc.com.br-111827?style=for-the-badge" alt="site" />
-  </a>
-  <a href="https://www.linkedin.com/in/joaovitorkc/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-joaovitorkc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jv0488598@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" />
-  </a>
-  <a href="https://quirallabs.com.br" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Quiral_Labs-quirallabs.com.br-111827?style=for-the-badge" alt="Quiral Labs" />
-  </a>
-  <a href="https://www.youtube.com/@joaovitork.c" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-joaovitork.c-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/joaovitork.c/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-joaovitork.c-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/1245717760730857473" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-perfil-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+<p align="left">
+  <a href="https://www.joaovitorkc.com.br">joaovitorkc.com.br</a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaovitorkc/joaovitorkc/output/snake.svg" alt="contribuições no GitHub" />
+<h2 align="left">Sobre mim</h2>
+
+<p align="left">
+  Full stack desde março de 2023. Comecei mexendo em tudo e acabei onde o problema é grande: sistemas de gestão para secretarias municipais de saúde, hoje em uso em mais de 400 municípios, em 26 estados. Meu principal cliente é a <a href="https://www.wiconsultoria.com.br/">Wi Consultoria</a>.
+</p>
+
+<p align="left">
+  Meu dia é TypeScript de ponta a ponta — Next.js e React na frente, Express e Fastify atrás, PostgreSQL modelado à mão. Também subo e endureço as máquinas, cuido da produção e conduzo o projeto. A parte que eu mais gosto é a que ninguém vê: transformar a regra de uma nota técnica do Ministério da Saúde em uma query que responde em milissegundos para mais de 200 telas.
+</p>
+
+<p align="left">
+  Em paralelo, curso Ciência da Computação na UniFavip Wyden. A faculdade me dá o alicerce; a prática me deu a velocidade. Empresa própria: <a href="https://www.quirallabs.com.br/">Quiral Labs</a> — software sob medida e impressão 3D.
+</p>
+
+<p align="left">
+  Software que ninguém pode ver quebrar. Você para de perguntar “isso funciona?” e passa a perguntar “isso aguenta?”.
+</p>
+
+---
+
+<h2 align="left">Trabalho</h2>
+
+<p align="left">Dez sistemas em produção. Código de cliente, então o detalhe está no <a href="https://www.joaovitorkc.com.br/pt">dossiê</a>.</p>
+
+<p align="left">
+  <b>e-Gestão</b> — portal único da secretaria: relatórios, cidadão, vigilância, BPA, painel e assistente com IA. Multi-inquilino por IBGE.<br>
+  <b>R-SUS</b> — núcleo de relatórios da atenção primária (filtro, tabela, PDF/CSV/XLSX).<br>
+  <b>Painel de Chamadas</b> — a TV da recepção chama o paciente no segundo em que o profissional clica no e-SUS. WebSocket, sem alterar o PEC.<br>
+  <b>Visa</b> — vigilância sanitária: estabelecimento, inspeção, licença, reclamação.<br>
+  <b>BPA Online</b> — produção ambulatorial até o arquivo oficial do SUS.<br>
+  <b>RAID</b> — gestão clínica legada, mantida viva.<br>
+  <b>Catsuc Labs</b> — produtos de consumo em que a parte difícil é integridade (pagamento, sorteio, prazo no servidor).
+</p>
+
+<p align="left">
+  <b>400+</b> municípios · <b>26</b> estados · <b>200+</b> telas · <b>50+</b> módulos de API · <b>300+</b> migrations
+</p>
+
+---
+
+<h2 align="left">Onde me encontrar</h2>
+
+<div align="left">
+  <a href="https://www.joaovitorkc.com.br" target="_blank">
+    <img src="https://cdn.simpleicons.org/safari/FF5A1F" width="40" height="40" alt="site" />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/joaovitorkc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/joaovitork.c/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
+  </a>
+  <a href="mailto:joaovitorrkc@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
+  </a>
+  <a href="https://discord.com/users/1245717760730857473" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
+  </a>
+  <a href="https://www.youtube.com/@joaovitork.c" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube" />
+  </a>
 </div>
+
+---
+
+<h2 align="left">Linguagens e ferramentas</h2>
+
+<p align="left">Produção diária em TypeScript. Swift no nativo Mac. O resto entra quando o problema pede.</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastify" height="40" alt="fastify" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions" />
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/joaovitorkc/joaovitorkc/output/snake.svg" alt="contribuições" />
